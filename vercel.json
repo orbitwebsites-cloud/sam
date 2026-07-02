@@ -1,11 +1,5 @@
 {
   "buildCommand": "",
   "framework": "static",
-  "public": ".",
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
-    }
-  ]
+  "public": "public"
 }
